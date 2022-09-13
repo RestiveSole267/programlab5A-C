@@ -16,7 +16,7 @@ public class Lab5C {
 
         if (x == 0){
             if (y == 0){
-                System.out.println("This point is the origin.");
+                System.out.println("This point is on the origin.");
             }
             if (y > 0){
                 System.out.println("This point is on the y axis.");

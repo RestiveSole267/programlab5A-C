@@ -17,7 +17,7 @@ public class Lab5A {
             String commericalraw = sc.nextLine();
             String commerical = commericalraw.toLowerCase();
             if (commerical.equals("y")) {
-                System.out.println("Congratulations! You can purchase a vehicle, let’s start talking options!");
+                System.out.println("Congratulations! You can purchase a vehicle, let's start talking options!");
             }
             if (commerical.equals("n")) {
                 System.out.println("Commercial driving license is a prerequisite to purchase a vehicle!");
